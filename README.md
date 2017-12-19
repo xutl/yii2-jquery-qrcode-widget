@@ -1,1 +1,1 @@
-# yii2-jquery-qrcode-widget
+# yii2-jqery-qrcode-asset

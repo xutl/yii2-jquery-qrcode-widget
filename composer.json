@@ -1,0 +1,30 @@
+{
+  "name": "xutl/yii2-jquery-qrcode-widget",
+  "description": "The jquery qrcode for yii2.",
+  "keywords": [
+    "yii2",
+    "qrcode",
+    "jquery"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "require": {
+    "yiisoft/yii2": "~2.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "xutl\\jquery\\qrcode\\": ""
+    }
+  },
+    "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.0-dev"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
